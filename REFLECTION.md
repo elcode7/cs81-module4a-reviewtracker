@@ -1,1 +1,1 @@
-
+The most helpful aspect of the code’s structure was the way each task was separated into its own function. Each function had a single responsibility. The mostReadBook function took longer to understand because it used an object to count how many times each book appeared.
