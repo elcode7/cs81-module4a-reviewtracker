@@ -1,3 +1,8 @@
+// 
+
+// Repo cs81-module4a-reviewtracker Link
+https://github.com/elcode7/cs81-module4a-reviewtracker
+
 // This array stores reading data for the five days in a week.
 // Each object represents one reading session with a day, book title, and minutes read.
 // Weekly reading log
